@@ -8,6 +8,7 @@ class SensorsProcessorApplicationTests {
 
 	@Test
 	void contextLoads() {
+		// TODO: Try TopologyTestDriver
 	}
 
 }
